@@ -1,1 +1,3 @@
-Using fortran 90 in Seismology data processing.
+# Using fortran 90 in Seismology data processing
+
+
